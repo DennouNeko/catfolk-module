@@ -1,0 +1,8 @@
+{
+  "name": "catfolk-race-module",
+  "title": "Catfolk Race for DnD5e",
+  "description": "Adds race, subraces and features for homebrew Catfolk race",
+  "author": "DennouNeko",
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.8.0"
+}
